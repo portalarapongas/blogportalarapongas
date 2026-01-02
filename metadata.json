@@ -1,0 +1,7 @@
+{
+  "name": "Rádio Portal Arapongas",
+  "description": "Uma experiência de rádio digital moderna para Arapongas, integrando streaming ao vivo com notícias e informações da cidade em tempo real através de nossa redação digital avançada.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
